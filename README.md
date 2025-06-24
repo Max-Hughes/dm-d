@@ -1,3 +1,3 @@
 # dm-d
-This repo is intended for testing a tool, as my first project, aimed at using python to convert the dm+d xml files from TRUD into a database that can be searched easily.
-This is also for learning how to use github.
+This repo is intended for testing a tool as my first project. The goal is to use Python to convert the dm+d XML files from TRUD into an easily searchable database.
+This project also helps me learn how to use GitHub.
